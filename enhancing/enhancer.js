@@ -13,6 +13,7 @@ function fail(item) {
   return { ...item };
 }
 
+// a repair(item) method that accepts an item object and returns a new item with the durability restored to 100. This method is the simplest of the three and would be a good starting point on this project.
 function repair(item) {
   return { ...item };
 }
